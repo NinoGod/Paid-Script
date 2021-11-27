@@ -1,0 +1,2 @@
+# Paid-Script
+sd
